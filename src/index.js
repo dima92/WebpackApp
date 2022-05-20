@@ -1,10 +1,10 @@
 import './styles/index.scss';
 import './assets/fonts/Roboto-Regular.ttf';
-import './component.js';
+import './component';
 
 const app = document.getElementById('app');
 
-const greeting = `Hello World`;
+const greeting = 'Hello World';
 
 app.innerHTML = `
     <strong class="main-title">

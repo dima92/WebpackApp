@@ -1,4 +1,4 @@
-@import "~normalize.css";
+@import '~normalize.css';
 
 @import './fonts.scss';
 
@@ -10,5 +10,5 @@ $main-color: tomato;
   text-align: center;
 }
 
-@import "components/main";
-@import "components/logo";
+@import 'components/main';
+@import 'components/logo';
